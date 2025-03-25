@@ -1,7 +1,7 @@
 # Creating a Lambda Function for Todo Tasks Application
 
 ## Overview
-This guide will walk you through creating an AWS Lambda function for a Todo Tasks application, with a focus on setup and DynamoDB integration.
+This guide will walk you through creating an AWS Lambda function for the Todo Tasks application, with a focus on setup and DynamoDB integration.
 
 ## Step 1: Creating a Lambda Function
 
