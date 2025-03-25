@@ -8,7 +8,6 @@ function ToDoList() {
   const [editingTaskId, setEditingTaskId] = useState(null);
   const [editedTaskText, setEditedTaskText] = useState("");
 
-  //https://na3wfpk6gi.execute-api.us-east-1.amazonaws.com/tasks
   const API_URL = "";
 
   // Fetch all tasks from the backend
