@@ -56,8 +56,8 @@ Before you begin, ensure that you have the following:
      ```bash
      cd /path/to/my-todo-app
      ```
+[Download or view the demo video](https://github.com/makendym/AWS-To-Do-App-Tutorial/blob/235f860968da6cd3d5bf341f9f22781645991961/my-todo-app/src/assets/Step1-Download-and-extract-the-project.mov)
 
-<video src="my-todo-app/src/assets/Step1-Download-and-extract-the-project.mov" controls title="Demo video"></video>
 ---
 
 ## Step 2: Verify Node.js and npm Installation
