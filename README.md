@@ -58,6 +58,11 @@ Before you begin, ensure that you have the following:
      ```
 [Download or view the demo video](https://github.com/makendym/AWS-To-Do-App-Tutorial/blob/235f860968da6cd3d5bf341f9f22781645991961/my-todo-app/src/assets/Step1-Download-and-extract-the-project.mov)
 
+# Project Demo
+
+Click the image below to watch the demo video:
+
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 ---
 
 ## Step 2: Verify Node.js and npm Installation
