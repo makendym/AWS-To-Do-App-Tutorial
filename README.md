@@ -57,6 +57,7 @@ Before you begin, ensure that you have the following:
      cd /path/to/my-todo-app
      ```
 
+<video src="my-todo-app/src/assets/Step1-Download-and-extract-the-project.mov" controls title="Demo video"></video>
 ---
 
 ## Step 2: Verify Node.js and npm Installation
@@ -112,7 +113,6 @@ Inside the `dist/` folder, you will find an `index.html` file and an `assets` fo
 5. Select a region.
 6. Uncheck "Block all public access" if you want to make your site publicly accessible.
 7. Click Create bucket.
-<video src="my-todo-app/src/assets/Step1-Download-and-extract-the-project.mov" controls title="Demo video"></video>
 
 ### 2. Upload Build Files to S3:
 1. Open the newly created S3 bucket.
